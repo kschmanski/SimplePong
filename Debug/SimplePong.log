@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\visual studio stuff\projects\simplepong\simplepong\main.cpp(24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\visual studio stuff\projects\simplepong\simplepong\main.cpp(27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SimplePong.vcxproj -> C:\Visual Studio Stuff\Projects\SimplePong\Debug\SimplePong.exe
